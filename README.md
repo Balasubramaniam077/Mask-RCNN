@@ -2,7 +2,6 @@
 
 Mask-RCNN is a deep neural network aimed to solve instance segmentatiom problem in machine Learning or Computer vision.Segmentation can give the apporch for single object in multiple Colour Segmantation.
 
-![download](https://user-images.githubusercontent.com/67773609/130324121-f123a538-81a9-4ce2-9dbd-fc1c3018bb89.jpg)
 
 
 In this respo i created the custom dataset for person.This repo will give the result of single person can identify by differnet colour Segmentations.
