@@ -24,8 +24,9 @@ My Custom dataset weight files for futher use.<a href="https://drive.google.com/
 
 # Result:!
 
-![Enigma](https://user-images.githubusercontent.com/67773609/130324369-134e35b6-558d-4842-82e0-f4466b80903c.jpeg)
 
+
+![Enigma](https://user-images.githubusercontent.com/67773609/130324544-55887443-18da-4459-959f-5e7fa898e951.jpeg)
 
 
 
