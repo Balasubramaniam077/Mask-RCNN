@@ -31,7 +31,11 @@ My Custom dataset weight files for futher use.<a href="https://drive.google.com/
 
 ![output_image](https://user-images.githubusercontent.com/67773609/130324388-910971ae-1497-48a7-b7d7-6a17e732d839.jpg)
 
+# Upcoming Updating 
 
+Custom Changes in Pretrained model to classification
+
+Changing the huge parameters and change the huper parameter tuning with clear Grpahical View
 
 # Refer:
 
